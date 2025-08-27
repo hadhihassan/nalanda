@@ -15,6 +15,12 @@ Nalanda Library Management System is designed to streamline the management of a 
 
 - **Reports**: Most borrowed books, active members, and book availability.
 
+## Stack
+ - Node.js
+ - Express.js
+ - MongoDB
+ - GraphQL
+ - Render 
 
 ## Project Structure
 
