@@ -20,7 +20,9 @@ Nalanda Library Management System is designed to streamline the management of a 
  - Express.js
  - MongoDB
  - GraphQL
- - Render 
+ - Render
+ - RESTful API
+ 
 
 ## Project Structure
 
